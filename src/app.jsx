@@ -1,7 +1,7 @@
 import React from 'react';
 
-function App() {
-  return <h1>Teste</h1>;
+const App = () => {
+  return <h1>Reacts</h1>
 }
 
-export default App;
+export default App
